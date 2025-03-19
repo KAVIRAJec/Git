@@ -1,0 +1,1 @@
+This is the tracked file and it will not considered by gitignore

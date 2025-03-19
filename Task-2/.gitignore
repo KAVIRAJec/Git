@@ -1,0 +1,6 @@
+# Ignore the following files
+# To prevent sensitive information from being pushed to the repository
+.env 
+# Ignore the following directories
+# To prevent the output files from being pushed to the repository
+output/
